@@ -88,3 +88,5 @@ Win Rate (勝率) 與 Profit Factor (獲利因子)。
 異常處理與日誌 (Logging)：網路斷線重連機制、API Rate limit 控管、記錄每次交易與系統狀態。
 
 最常用工具：logging (Python 內建), Docker (環境隔離), AWS/GCP (雲端部署), Celery / Redis (非同步任務處理)。
+
+branch BT
